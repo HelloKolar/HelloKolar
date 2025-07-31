@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Everyone 👋
 
 <!--
 **HelloKolar/HelloKolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
